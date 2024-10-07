@@ -1,0 +1,2 @@
+# Classification-and-Validation-of-Italian-Wine-Varieties-Using-Chemical-Analysis-and-MAP-Method
+This dataset comes from a chemical analysis of wines grown in the same Italian region but from three varieties. Thirteen ingredients were found in all wines, and the data includes 483 entries, labeled (0, 1, 2) for the wine types. I divided it into 423 training and 60 testing samples, using MAP to predict accuracy.
